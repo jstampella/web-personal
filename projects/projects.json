@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Aplicacion Clima",
+    "desc": "Weather PPAY es una aplicacion de clima para obtener la informacion detallada por dia y hora utilizando las api OpenWeather Api.",
+    "image": "climaapp",
+    "category": "react",
+    "links": {
+      "view": "http://ppay-weather.vercel.app/",
+      "code": "https://github.com/jstampella/ppay-weather"
+    }
+  },
+  {
+    "name": "CRUD MERN TS",
+    "desc": "Este es un proyecto de aplicación web usando React, con un Backend Nodejs usando Express y Mongodb como base de datos (MERN Stack) - Typescript",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jstampella/crud_mern_ts"
+    }
+  },
+  {
+    "name": "Node Express API",
+    "desc": "Este es un proyecto de Node JS con Express para crear una Api",
+    "image": "saas",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jstampella/node-express-api"
+    }
+  },
+  {
+    "name": "Aplicacion Calendario",
+    "desc": "frontend calendario de eventos, con redux Toolkit, axios",
+    "image": "bootstraptemplate",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jstampella/calendar-react"
+    }
+  },
+  {
+    "name": "Software Reserva",
+    "desc": "Este es un softaware realizado con C# para escritorio de windows",
+    "image": "reservasc",
+    "category": "csharp",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jstampella/TP2-Reservas"
+    }
+  }
+]
